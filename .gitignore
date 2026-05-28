@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Large ML/AI files
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Jupyter
+.ipynb_checkpoints/
